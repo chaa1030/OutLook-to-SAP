@@ -18,5 +18,6 @@ In order for it to work, follow these steps:
 
 Note 1: You can leave appointments uncategorised. These will be counted as "None"
 in the spreadsheet.
+
 Note 2: the script currently only sees your agenda for the current week we are in.
 You can manually adjust the timing below.
